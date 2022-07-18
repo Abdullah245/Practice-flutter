@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>363968628328-6p39ijab8glu4l0sln1bciehmdf1kfbn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.363968628328-6p39ijab8glu4l0sln1bciehmdf1kfbn</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCUP6Klbj0zZ2kvyBU3yGg_myYtzyCj6U8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>363968628328</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.kareem</string>
+	<key>PROJECT_ID</key>
+	<string>kareemfirebasecloudstorage</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kareemfirebasecloudstorage.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:363968628328:ios:b7d76bd0a60a7c38a75ddd</string>
+</dict>
+</plist>

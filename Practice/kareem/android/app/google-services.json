@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "363968628328",
+    "project_id": "kareemfirebasecloudstorage",
+    "storage_bucket": "kareemfirebasecloudstorage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363968628328:android:61a06a141cb165d0a75ddd",
+        "android_client_info": {
+          "package_name": "com.example.kareem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363968628328-v41klf0l36b4h44kb1r4ksj3scj66mqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzz-oqGqezn73oqB5tUZD4_vknDTrwbm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363968628328-v41klf0l36b4h44kb1r4ksj3scj66mqf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "363968628328-6p39ijab8glu4l0sln1bciehmdf1kfbn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kareem"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
